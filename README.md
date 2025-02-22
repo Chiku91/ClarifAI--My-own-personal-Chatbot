@@ -11,6 +11,7 @@ Features
 ->Fast Responses: Enjoy fast and accurate responses powered by advanced AI.
 
 TechStack Used:
+
 ->Streamlit: For building the web app.
 
 ->OpenAI: For powering the AI model.
