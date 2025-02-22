@@ -1,0 +1,15 @@
+# Ignore secrets file
+secrets.toml
+
+# Ignore environment variable files
+.env
+
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore virtual environment directories
+venv/
+
+# Ignore other files or folders you may not want to track
+*.log
+*.bak
