@@ -4,12 +4,17 @@ This is a chatbot web application built using Streamlit and powered by a powerfu
 
 Features
 
-.Interactive Chat: Communicate with the AI chatbot in real-time.
-.Customizable UI: The app features a modern, trending tech inspired design.
-.Fast Responses: Enjoy fast and accurate responses powered by advanced AI.
+->Interactive Chat: Communicate with the AI chatbot in real-time.
+
+->Customizable UI: The app features a modern, trending tech inspired design.
+
+->Fast Responses: Enjoy fast and accurate responses powered by advanced AI.
 
 TechStack Used:
-.Streamlit: For building the web app.
-.OpenAI: For powering the AI model.
-.Python: The primary programming language.
-.API Integration: The app uses a custom OPENAI API to generate responses from the OPENAI model.
+->Streamlit: For building the web app.
+
+->OpenAI: For powering the AI model.
+
+->Python: The primary programming language.
+
+->API Integration: The app uses a custom OPENAI API to generate responses from the OPENAI model.
